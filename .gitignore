@@ -50,3 +50,7 @@ google-services.json
 *.hprof
 
 *.pdf
+
+/release/
+Lab1/app/release/output-metadata.json
+Lab1/app/release/output-metadata.json
